@@ -1,3 +1,3 @@
-This program is a variant of the game tetris. However, this program take an input text file as a parameter and checks 
+This program is a variant of the game tetris. However, this program takes an input text file as a parameter and checks 
 to see if the file contains valid grids of tetriminos which it then places in the smallest possible grid.
 This project uses backtracking in order to find the smallest possible grid.
